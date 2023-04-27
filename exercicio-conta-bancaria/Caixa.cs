@@ -1,10 +1,9 @@
-using System;
 
 public class Caixa{
     private Conta conta1;
     private Conta conta2;
 
-
+    
     public void menu(){
         Console.WriteLine("1- Criar Conta: ");
         Console.WriteLine("2- Consultar Saldo: ");
@@ -20,9 +19,11 @@ public class Caixa{
         
         do{
             menu();
-            Console.WriteLine("\nDigite uma opcao: "); 
+            Console.WriteLine("\nDigite uma opcao: ");
+
             opcao = int.Parse(Console.ReadLine());
             executar_menu(opcao);
+            
         }while(opcao != 7);
     }
 
