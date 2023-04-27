@@ -1,0 +1,15 @@
+C:\Users\gabri\OneDrive - estudante.ufla.br\Área de Trabalho\PPOO-C-Sharp\exercicio-conta-bancaria\bin\Debug\net6.0\exercicio-conta-bancaria.exe
+C:\Users\gabri\OneDrive - estudante.ufla.br\Área de Trabalho\PPOO-C-Sharp\exercicio-conta-bancaria\bin\Debug\net6.0\exercicio-conta-bancaria.deps.json
+C:\Users\gabri\OneDrive - estudante.ufla.br\Área de Trabalho\PPOO-C-Sharp\exercicio-conta-bancaria\bin\Debug\net6.0\exercicio-conta-bancaria.runtimeconfig.json
+C:\Users\gabri\OneDrive - estudante.ufla.br\Área de Trabalho\PPOO-C-Sharp\exercicio-conta-bancaria\bin\Debug\net6.0\exercicio-conta-bancaria.dll
+C:\Users\gabri\OneDrive - estudante.ufla.br\Área de Trabalho\PPOO-C-Sharp\exercicio-conta-bancaria\bin\Debug\net6.0\exercicio-conta-bancaria.pdb
+C:\Users\gabri\OneDrive - estudante.ufla.br\Área de Trabalho\PPOO-C-Sharp\exercicio-conta-bancaria\obj\Debug\net6.0\exercicio-conta-bancaria.csproj.AssemblyReference.cache
+C:\Users\gabri\OneDrive - estudante.ufla.br\Área de Trabalho\PPOO-C-Sharp\exercicio-conta-bancaria\obj\Debug\net6.0\exercicio-conta-bancaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\OneDrive - estudante.ufla.br\Área de Trabalho\PPOO-C-Sharp\exercicio-conta-bancaria\obj\Debug\net6.0\exercicio-conta-bancaria.AssemblyInfoInputs.cache
+C:\Users\gabri\OneDrive - estudante.ufla.br\Área de Trabalho\PPOO-C-Sharp\exercicio-conta-bancaria\obj\Debug\net6.0\exercicio-conta-bancaria.AssemblyInfo.cs
+C:\Users\gabri\OneDrive - estudante.ufla.br\Área de Trabalho\PPOO-C-Sharp\exercicio-conta-bancaria\obj\Debug\net6.0\exercicio-conta-bancaria.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive - estudante.ufla.br\Área de Trabalho\PPOO-C-Sharp\exercicio-conta-bancaria\obj\Debug\net6.0\exercicio-conta-bancaria.dll
+C:\Users\gabri\OneDrive - estudante.ufla.br\Área de Trabalho\PPOO-C-Sharp\exercicio-conta-bancaria\obj\Debug\net6.0\refint\exercicio-conta-bancaria.dll
+C:\Users\gabri\OneDrive - estudante.ufla.br\Área de Trabalho\PPOO-C-Sharp\exercicio-conta-bancaria\obj\Debug\net6.0\exercicio-conta-bancaria.pdb
+C:\Users\gabri\OneDrive - estudante.ufla.br\Área de Trabalho\PPOO-C-Sharp\exercicio-conta-bancaria\obj\Debug\net6.0\exercicio-conta-bancaria.genruntimeconfig.cache
+C:\Users\gabri\OneDrive - estudante.ufla.br\Área de Trabalho\PPOO-C-Sharp\exercicio-conta-bancaria\obj\Debug\net6.0\ref\exercicio-conta-bancaria.dll
