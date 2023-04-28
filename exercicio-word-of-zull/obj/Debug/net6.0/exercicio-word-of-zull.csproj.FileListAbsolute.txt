@@ -1,0 +1,15 @@
+C:\Users\gabri\OneDrive - estudante.ufla.br\Área de Trabalho\PPOO-C-Sharp\exercicio-word-of-zull\bin\Debug\net6.0\exercicio-word-of-zull.exe
+C:\Users\gabri\OneDrive - estudante.ufla.br\Área de Trabalho\PPOO-C-Sharp\exercicio-word-of-zull\bin\Debug\net6.0\exercicio-word-of-zull.deps.json
+C:\Users\gabri\OneDrive - estudante.ufla.br\Área de Trabalho\PPOO-C-Sharp\exercicio-word-of-zull\bin\Debug\net6.0\exercicio-word-of-zull.runtimeconfig.json
+C:\Users\gabri\OneDrive - estudante.ufla.br\Área de Trabalho\PPOO-C-Sharp\exercicio-word-of-zull\bin\Debug\net6.0\exercicio-word-of-zull.dll
+C:\Users\gabri\OneDrive - estudante.ufla.br\Área de Trabalho\PPOO-C-Sharp\exercicio-word-of-zull\bin\Debug\net6.0\exercicio-word-of-zull.pdb
+C:\Users\gabri\OneDrive - estudante.ufla.br\Área de Trabalho\PPOO-C-Sharp\exercicio-word-of-zull\obj\Debug\net6.0\exercicio-word-of-zull.csproj.AssemblyReference.cache
+C:\Users\gabri\OneDrive - estudante.ufla.br\Área de Trabalho\PPOO-C-Sharp\exercicio-word-of-zull\obj\Debug\net6.0\exercicio-word-of-zull.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\OneDrive - estudante.ufla.br\Área de Trabalho\PPOO-C-Sharp\exercicio-word-of-zull\obj\Debug\net6.0\exercicio-word-of-zull.AssemblyInfoInputs.cache
+C:\Users\gabri\OneDrive - estudante.ufla.br\Área de Trabalho\PPOO-C-Sharp\exercicio-word-of-zull\obj\Debug\net6.0\exercicio-word-of-zull.AssemblyInfo.cs
+C:\Users\gabri\OneDrive - estudante.ufla.br\Área de Trabalho\PPOO-C-Sharp\exercicio-word-of-zull\obj\Debug\net6.0\exercicio-word-of-zull.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive - estudante.ufla.br\Área de Trabalho\PPOO-C-Sharp\exercicio-word-of-zull\obj\Debug\net6.0\exercicio-word-of-zull.dll
+C:\Users\gabri\OneDrive - estudante.ufla.br\Área de Trabalho\PPOO-C-Sharp\exercicio-word-of-zull\obj\Debug\net6.0\refint\exercicio-word-of-zull.dll
+C:\Users\gabri\OneDrive - estudante.ufla.br\Área de Trabalho\PPOO-C-Sharp\exercicio-word-of-zull\obj\Debug\net6.0\exercicio-word-of-zull.pdb
+C:\Users\gabri\OneDrive - estudante.ufla.br\Área de Trabalho\PPOO-C-Sharp\exercicio-word-of-zull\obj\Debug\net6.0\exercicio-word-of-zull.genruntimeconfig.cache
+C:\Users\gabri\OneDrive - estudante.ufla.br\Área de Trabalho\PPOO-C-Sharp\exercicio-word-of-zull\obj\Debug\net6.0\ref\exercicio-word-of-zull.dll
