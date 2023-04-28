@@ -1,0 +1,15 @@
+C:\Users\gabri\OneDrive - estudante.ufla.br\Área de Trabalho\PPOO-C-Sharp\exercicio-zoologico\bin\Debug\net6.0\exercicio-zoologico.exe
+C:\Users\gabri\OneDrive - estudante.ufla.br\Área de Trabalho\PPOO-C-Sharp\exercicio-zoologico\bin\Debug\net6.0\exercicio-zoologico.deps.json
+C:\Users\gabri\OneDrive - estudante.ufla.br\Área de Trabalho\PPOO-C-Sharp\exercicio-zoologico\bin\Debug\net6.0\exercicio-zoologico.runtimeconfig.json
+C:\Users\gabri\OneDrive - estudante.ufla.br\Área de Trabalho\PPOO-C-Sharp\exercicio-zoologico\bin\Debug\net6.0\exercicio-zoologico.dll
+C:\Users\gabri\OneDrive - estudante.ufla.br\Área de Trabalho\PPOO-C-Sharp\exercicio-zoologico\bin\Debug\net6.0\exercicio-zoologico.pdb
+C:\Users\gabri\OneDrive - estudante.ufla.br\Área de Trabalho\PPOO-C-Sharp\exercicio-zoologico\obj\Debug\net6.0\exercicio-zoologico.csproj.AssemblyReference.cache
+C:\Users\gabri\OneDrive - estudante.ufla.br\Área de Trabalho\PPOO-C-Sharp\exercicio-zoologico\obj\Debug\net6.0\exercicio-zoologico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\OneDrive - estudante.ufla.br\Área de Trabalho\PPOO-C-Sharp\exercicio-zoologico\obj\Debug\net6.0\exercicio-zoologico.AssemblyInfoInputs.cache
+C:\Users\gabri\OneDrive - estudante.ufla.br\Área de Trabalho\PPOO-C-Sharp\exercicio-zoologico\obj\Debug\net6.0\exercicio-zoologico.AssemblyInfo.cs
+C:\Users\gabri\OneDrive - estudante.ufla.br\Área de Trabalho\PPOO-C-Sharp\exercicio-zoologico\obj\Debug\net6.0\exercicio-zoologico.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive - estudante.ufla.br\Área de Trabalho\PPOO-C-Sharp\exercicio-zoologico\obj\Debug\net6.0\exercicio-zoologico.dll
+C:\Users\gabri\OneDrive - estudante.ufla.br\Área de Trabalho\PPOO-C-Sharp\exercicio-zoologico\obj\Debug\net6.0\refint\exercicio-zoologico.dll
+C:\Users\gabri\OneDrive - estudante.ufla.br\Área de Trabalho\PPOO-C-Sharp\exercicio-zoologico\obj\Debug\net6.0\exercicio-zoologico.pdb
+C:\Users\gabri\OneDrive - estudante.ufla.br\Área de Trabalho\PPOO-C-Sharp\exercicio-zoologico\obj\Debug\net6.0\exercicio-zoologico.genruntimeconfig.cache
+C:\Users\gabri\OneDrive - estudante.ufla.br\Área de Trabalho\PPOO-C-Sharp\exercicio-zoologico\obj\Debug\net6.0\ref\exercicio-zoologico.dll

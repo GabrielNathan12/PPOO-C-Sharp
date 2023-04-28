@@ -23,7 +23,7 @@ public class Animal{
     public string GetEspecie(){
         return especie;
     }
-    public string DescricaoLonga(){
+    public virtual string DescricaoLonga(){
         string texto = "";
         texto += nome + " e um(a) " + especie + " que faz " + som;
         return texto;

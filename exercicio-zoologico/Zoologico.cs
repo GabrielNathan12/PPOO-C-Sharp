@@ -5,7 +5,7 @@ public class Zoologico{
     public Zoologico(){
         animais = new List<Animal>();
     }
-    public string AddLeao(string nome, string info, int opcao){
+    public string AddAnimal(string nome, string info, int opcao){
         string texto = "";
         if(opcao == 1){    
             Leao l = new Leao(nome, info);

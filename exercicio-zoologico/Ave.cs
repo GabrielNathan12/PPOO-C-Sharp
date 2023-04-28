@@ -1,4 +1,4 @@
-private class Ave : Animal{
+public class Ave : Animal{
     private string infoVoo;
 
     public Ave(string nome, string especie, string infoVoo, string som):
