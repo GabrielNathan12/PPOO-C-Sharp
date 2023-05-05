@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "EgEt6lEjGhuK1xMMjjb+FS0ls+PNdX5larAQFR7lImkC+kJUZIgkeVwFEZpq6Yd0bfuJttUKrZs28nL7F1EBuw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\gabri\\OneDrive - estudante.ufla.br\\Área de Trabalho\\PPOO-C-Sharp\\exercicio-serie-dados\\exercicio-serie-dados.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gabri\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\gabri\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\gabri\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\gabri\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

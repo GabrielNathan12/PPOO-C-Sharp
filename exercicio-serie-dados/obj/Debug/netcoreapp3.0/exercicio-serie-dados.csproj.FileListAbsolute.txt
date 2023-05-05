@@ -1,0 +1,5 @@
+C:\Users\gabri\OneDrive - estudante.ufla.br\Área de Trabalho\PPOO-C-Sharp\exercicio-serie-dados\obj\Debug\netcoreapp3.0\exercicio-serie-dados.csproj.AssemblyReference.cache
+C:\Users\gabri\OneDrive - estudante.ufla.br\Área de Trabalho\PPOO-C-Sharp\exercicio-serie-dados\obj\Debug\netcoreapp3.0\exercicio-serie-dados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\OneDrive - estudante.ufla.br\Área de Trabalho\PPOO-C-Sharp\exercicio-serie-dados\obj\Debug\netcoreapp3.0\exercicio-serie-dados.AssemblyInfoInputs.cache
+C:\Users\gabri\OneDrive - estudante.ufla.br\Área de Trabalho\PPOO-C-Sharp\exercicio-serie-dados\obj\Debug\netcoreapp3.0\exercicio-serie-dados.AssemblyInfo.cs
+C:\Users\gabri\OneDrive - estudante.ufla.br\Área de Trabalho\PPOO-C-Sharp\exercicio-serie-dados\obj\Debug\netcoreapp3.0\exercicio-serie-dados.csproj.CoreCompileInputs.cache

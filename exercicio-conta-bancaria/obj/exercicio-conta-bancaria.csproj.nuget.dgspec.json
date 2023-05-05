@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\gabri\\OneDrive - estudante.ufla.br\\Área de Trabalho\\PPOO-C-Sharp\\exercicio-conta-bancaria\\exercicio-conta-bancaria.csproj": {}
+    "c:\\Users\\gabri\\OneDrive - estudante.ufla.br\\Área de Trabalho\\PPOO-C-Sharp\\exercicio-conta-bancaria\\exercicio-conta-bancaria.csproj": {}
   },
   "projects": {
-    "C:\\Users\\gabri\\OneDrive - estudante.ufla.br\\Área de Trabalho\\PPOO-C-Sharp\\exercicio-conta-bancaria\\exercicio-conta-bancaria.csproj": {
+    "c:\\Users\\gabri\\OneDrive - estudante.ufla.br\\Área de Trabalho\\PPOO-C-Sharp\\exercicio-conta-bancaria\\exercicio-conta-bancaria.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\gabri\\OneDrive - estudante.ufla.br\\Área de Trabalho\\PPOO-C-Sharp\\exercicio-conta-bancaria\\exercicio-conta-bancaria.csproj",
+        "projectUniqueName": "c:\\Users\\gabri\\OneDrive - estudante.ufla.br\\Área de Trabalho\\PPOO-C-Sharp\\exercicio-conta-bancaria\\exercicio-conta-bancaria.csproj",
         "projectName": "exercicio-conta-bancaria",
-        "projectPath": "C:\\Users\\gabri\\OneDrive - estudante.ufla.br\\Área de Trabalho\\PPOO-C-Sharp\\exercicio-conta-bancaria\\exercicio-conta-bancaria.csproj",
+        "projectPath": "c:\\Users\\gabri\\OneDrive - estudante.ufla.br\\Área de Trabalho\\PPOO-C-Sharp\\exercicio-conta-bancaria\\exercicio-conta-bancaria.csproj",
         "packagesPath": "C:\\Users\\gabri\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\gabri\\OneDrive - estudante.ufla.br\\Área de Trabalho\\PPOO-C-Sharp\\exercicio-conta-bancaria\\obj\\",
+        "outputPath": "c:\\Users\\gabri\\OneDrive - estudante.ufla.br\\Área de Trabalho\\PPOO-C-Sharp\\exercicio-conta-bancaria\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\gabri\\AppData\\Roaming\\NuGet\\NuGet.Config"

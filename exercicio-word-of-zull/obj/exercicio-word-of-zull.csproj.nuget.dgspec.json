@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\gabri\\OneDrive - estudante.ufla.br\\Área de Trabalho\\PPOO-C-Sharp\\exercicio-word-of-zull\\exercicio-word-of-zull.csproj": {}
+    "c:\\Users\\gabri\\OneDrive - estudante.ufla.br\\Área de Trabalho\\PPOO-C-Sharp\\exercicio-word-of-zull\\exercicio-word-of-zull.csproj": {}
   },
   "projects": {
-    "C:\\Users\\gabri\\OneDrive - estudante.ufla.br\\Área de Trabalho\\PPOO-C-Sharp\\exercicio-word-of-zull\\exercicio-word-of-zull.csproj": {
+    "c:\\Users\\gabri\\OneDrive - estudante.ufla.br\\Área de Trabalho\\PPOO-C-Sharp\\exercicio-word-of-zull\\exercicio-word-of-zull.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\gabri\\OneDrive - estudante.ufla.br\\Área de Trabalho\\PPOO-C-Sharp\\exercicio-word-of-zull\\exercicio-word-of-zull.csproj",
+        "projectUniqueName": "c:\\Users\\gabri\\OneDrive - estudante.ufla.br\\Área de Trabalho\\PPOO-C-Sharp\\exercicio-word-of-zull\\exercicio-word-of-zull.csproj",
         "projectName": "exercicio-word-of-zull",
-        "projectPath": "C:\\Users\\gabri\\OneDrive - estudante.ufla.br\\Área de Trabalho\\PPOO-C-Sharp\\exercicio-word-of-zull\\exercicio-word-of-zull.csproj",
+        "projectPath": "c:\\Users\\gabri\\OneDrive - estudante.ufla.br\\Área de Trabalho\\PPOO-C-Sharp\\exercicio-word-of-zull\\exercicio-word-of-zull.csproj",
         "packagesPath": "C:\\Users\\gabri\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\gabri\\OneDrive - estudante.ufla.br\\Área de Trabalho\\PPOO-C-Sharp\\exercicio-word-of-zull\\obj\\",
+        "outputPath": "c:\\Users\\gabri\\OneDrive - estudante.ufla.br\\Área de Trabalho\\PPOO-C-Sharp\\exercicio-word-of-zull\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\gabri\\AppData\\Roaming\\NuGet\\NuGet.Config"
